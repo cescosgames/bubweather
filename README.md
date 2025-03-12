@@ -4,7 +4,7 @@ BubWeather is a simple straightforward mobile-first weather app demo that can se
 [project from roadmap.sh](https://roadmap.sh/projects/weather-app). Easy to use and accessible weather information based on the project from roadmap.sh!
 <br>
 <br>
-Live Demo: coming soon
+Live Demo: please message me if you would like to see a live demo!
 
 ## How it was made:
 
