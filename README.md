@@ -38,8 +38,8 @@ Live Demo: coming soon
 
 1. Download or clone the repo onto your local environment, and navigate into the folder
 ```
-git clone 
-cd 
+git clone https://github.com/cescosgames/bubweather
+cd bubweather
 ```
 2. Install dependencies
 ```
@@ -50,6 +50,7 @@ npm install
 npm run dev
 ```
 4. Go to your selected local host in your browser (Vite default is 5173)
+5. *NOTE* Remember to input your own API key into the weathermanager component to ensure your requests succeed!
 
 ## Features:
 
@@ -62,7 +63,7 @@ Following the project guidelines, this project features...
 ## Lessons Learned:
 
 This was a nice project to practice working with 3rd party API's and continue refining react skills. I didn't implement any big new concepts and this felt mostly like
-practice. This project's final version feels more like a demo than my other projects because, to limit API calls, I took some 'shortcuts'. For example, my custom suggestion
+solid practice. This project's final version feels more like a demo than my other projects because, to limit API calls, I took some 'shortcuts'. For example, my custom suggestion
 dropdown uses a small list of US cities from a json file I created, rather than calling from a larger more robust US city API. The framework is there though to implement it
 if in the future I decided to expand on this project.
 <br>
